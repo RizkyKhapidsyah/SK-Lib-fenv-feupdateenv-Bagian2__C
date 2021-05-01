@@ -1,4 +1,4 @@
-// C++ program to illustrate the feupdateenv() function
+// C program to illustrate the feupdateenv() function
 
 /*	Source by GeeksForGeeks
 	Modified For Learn by Rizky Khapidsyah
